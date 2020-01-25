@@ -5,7 +5,7 @@
 Mestre em Direção Estratégica em Engenharia de Software.**
 
 
-## RESUMO
+## RESUMO | [ABSTRACT](/README-EN.md)
 
 A partir do problema de pesquisa proposto: “É possível que implantação da integração continuada
 em ambientes   de  desenvolvimento ágil possibilite a entrega de produtos íntegros e dentro dos
