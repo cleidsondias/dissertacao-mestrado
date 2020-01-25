@@ -26,14 +26,13 @@ prática de desenvolvimento de software que auxilia na execução de testes unit
 estática do código e a entrega automática em ambientes de sistemas integrados, garantindo uma 
 velocidade na entrega de valor. 
 
-A aliança dessa prática com os
-frameworks que se baseiam na metodologia ágil é um importante instrumento no apoio às equipes
-ágeis. A partir do objetivo geral, “Demonstrar a importância da integração contínua junto a equipes
-de desenvolvimento ágil”, e com base em estudo de caso aplicado, as conclusões demonstraram
-que a implantação de ambiente de integração em ambientes ágeis eleva a qualidade dos serviços
-internos e do produto entregue ao cliente. No entanto, pode-se incrementar ainda mais integração
-como, por exemplo, o uso de I.A e mesmos o uso de mecanismos de avaliação de qualidade como o
-uso do diagrama de ISHIKAWA.
+A aliança dessa prática com os frameworks que se baseiam na metodologia ágil é um importante 
+instrumento no apoio às equipes ágeis. A partir do objetivo geral, “Demonstrar a importância da 
+integração contínua junto a equipes de desenvolvimento ágil”, e com base em estudo de caso aplicado, 
+as conclusões demonstraram que a implantação de ambiente de integração em ambientes ágeis eleva a 
+qualidade dos serviços internos e do produto entregue ao cliente. No entanto, pode-se incrementar 
+ainda mais integração como, por exemplo, o uso de I.A e mesmos o uso de mecanismos de avaliação de 
+qualidade como o uso do diagrama de ISHIKAWA.
 
 **Palavras-chave:** Equipes Ágeis; Integração Continuada; Agilômetro; Entrega Continuada de
 Valor; ISHIKAWA.
