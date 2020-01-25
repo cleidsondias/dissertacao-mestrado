@@ -1,5 +1,9 @@
-# Dissertação Mestrado
-A importância da Integração Continuada em Ambientes de Desenvolvimento Ágil.
+# A importância da Integração Continuada em Ambientes de Desenvolvimento Ágil.
+
+
+**Dissertação para obtenção do grau de:
+Mestre em Direção Estratégica em Engenharia de Software.**
+
 
 ## RESUMO
 
