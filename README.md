@@ -37,3 +37,5 @@ uso do diagrama de ISHIKAWA.
 
 **Palavras-chave:** Equipes Ágeis; Integração Continuada; Agilômetro; Entrega Continuada de
 Valor; ISHIKAWA.
+
+Arquivo: [Nascimento_Cleidson_BRMDEISW2258608_PF.pdf](/Nascimento_Cleidson_BRMDEISW2258608_PF.pdf)
